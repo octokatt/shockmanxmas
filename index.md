@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Merry Christmas, Dear Shockmans
 
-You can use the [editor on GitHub](https://github.com/octokatt/shockmanxmas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Brought to you by Katt._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 2021 Calendar
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As an easy point of reference, here's time and places for things:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+##### Christmas Eve
+*12/24, 3-6pm*
+_Our Baking Day!_
+Refreshments will be cookies and pizza, cooked together
+[Sign up to bring food here](https://docs.google.com/forms/d/e/1FAIpQLScFYdj2Bt5DOcVXU7fsBwgxPAwTCJ-Vx1HbIpnHgvmNrJu8iA/viewform?usp=sf_link)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+##### Christmas Day
+*12/25, 12-3pm*
+_Christmas Tea_
+Light refreshments and tea before the main event
 
-**Bold** and _Italic_ and `Code` text
+*12/25, 3-7pm*
+_Gift Exchange_
+Our annual gift exchange and communal meal
+Folk who are out-of-state will be Skyping in at 3pm, followed by our gift exchange
+[Sign up to bring food here](https://docs.google.com/spreadsheets/d/10NlfT2YbKftH7h32JHUc-bLO9I8WUHTDXOUv0EXOD1c/edit)
+If you're uncertain of gift exchange details, ask Katt
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/octokatt/shockmanxmas/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
