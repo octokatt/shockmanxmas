@@ -8,7 +8,6 @@ _Brought to you by Katt.  Merry Christmas._
 As an easy point of reference, here's time and places for things:
 
 
-* * * * *
 
 #### Christmas Eve
 
@@ -23,7 +22,7 @@ Refreshments will be cookies and pizza, cooked together
 * * * * *
 
 
-#### Christmas Tea
+#### Christmas Day
 
 *12/25, 12-3pm* @ Jill's House
 
