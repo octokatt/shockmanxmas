@@ -1,12 +1,14 @@
 # Merry Christmas, Dear Shockmans
 
-_Brought to you by Katt._
+_Brought to you by Katt.  Merry Christmas._
 
 
 ## 2021 Calendar
 
 As an easy point of reference, here's time and places for things:
 
+
+* * * * *
 
 #### Christmas Eve
 
@@ -18,9 +20,10 @@ Refreshments will be cookies and pizza, cooked together
 
 [Sign up to bring food here](https://docs.google.com/forms/d/e/1FAIpQLScFYdj2Bt5DOcVXU7fsBwgxPAwTCJ-Vx1HbIpnHgvmNrJu8iA/viewform?usp=sf_link)
 
+* * * * *
 
 
-#### Christmas Day
+#### Christmas Tea
 
 *12/25, 12-3pm* @ Jill's House
 
@@ -29,6 +32,7 @@ _Christmas Tea_
 Light refreshments and tea before the main event
 
 
+* * * * * 
 
 
 *12/25, 3-7pm* @ Himself's House
