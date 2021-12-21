@@ -3,12 +3,12 @@
 _Brought to you by Katt._
 
 
-### 2021 Calendar
+## 2021 Calendar
 
 As an easy point of reference, here's time and places for things:
 
 
-##### Christmas Eve
+#### Christmas Eve
 
 *12/24, 3-6pm* @ Himself's House
 
@@ -19,13 +19,16 @@ Refreshments will be cookies and pizza, cooked together
 [Sign up to bring food here](https://docs.google.com/forms/d/e/1FAIpQLScFYdj2Bt5DOcVXU7fsBwgxPAwTCJ-Vx1HbIpnHgvmNrJu8iA/viewform?usp=sf_link)
 
 
-##### Christmas Day
+
+#### Christmas Day
 
 *12/25, 12-3pm* @ Jill's House
 
 _Christmas Tea_
 
 Light refreshments and tea before the main event
+
+
 
 
 *12/25, 3-7pm* @ Himself's House
