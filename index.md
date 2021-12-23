@@ -11,13 +11,22 @@ As an easy point of reference, here's time and places for things:
 
 #### Christmas Eve
 
-*12/24, 3-6pm* @ Himself's House
+*12/24, 12-4pm* @ Jill's House
 
 _Our Baking Day!_
 
-Refreshments will be cookies and pizza, cooked together
+Light refreshments will be served, and cookies!
 
 [Sign up to bring food here](https://docs.google.com/forms/d/e/1FAIpQLScFYdj2Bt5DOcVXU7fsBwgxPAwTCJ-Vx1HbIpnHgvmNrJu8iA/viewform?usp=sf_link)
+
+* * * * * 
+
+*12/24, 4pm-7pm* @ Himself's House
+
+_Annual Pizza Bake!_
+
+Heading over to Grandfather's House to make pizzas
+
 
 * * * * *
 
