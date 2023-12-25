@@ -8,15 +8,6 @@ _Brought to you by Katt.  Merry Christmas._
 As an easy point of reference, here's time and places for things:
 
 
-
-#### Christmas Eve
-
-_Nothing, enjoy your families!_
-
-
-* * * * *
-
-
 #### Christmas Day
 
 *12/25, 12-1pm AZ* @ Google Meet
