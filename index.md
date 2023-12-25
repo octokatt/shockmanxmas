@@ -20,4 +20,5 @@ _Nothing, enjoy your families!_
 #### Christmas Day
 
 *12/25, 12-1pm AZ* @ Google Meet
+<br>
 [Join the Google Meet here!](https://meet.google.com/cvm-zxjr-opi)
